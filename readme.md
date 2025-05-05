@@ -3,5 +3,5 @@
 ## Date Started
 **May 6, 2025**
   
- - Dynamic Array is Compelted.
+ - Dynamic Array is Compeleted.
 
