@@ -5,3 +5,6 @@
   
  - Dynamic Array is Compeleted.
 
+**May 10, 2025**
+
+ - Singly Linked List is Compeleted.
